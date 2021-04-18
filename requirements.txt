@@ -1,0 +1,7 @@
+transformers==4.5.0
+torch
+tensorboardX
+sentencepiece
+sklearn
+jsonlines
+datasets
